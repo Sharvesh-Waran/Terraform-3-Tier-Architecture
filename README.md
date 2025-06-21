@@ -40,16 +40,16 @@ This project uses Terraform to deploy a 3-tier architecture on AWS. It includes 
 
 ---
 
-# Initialize Terraform
+## Initialize Terraform
 terraform init
 
-# Preview the infrastructure changes
+## Preview the infrastructure changes
 terraform plan
 
-# Apply the configuration and create infrastructure
+## Apply the configuration and create infrastructure
 terraform apply
 
-# Destroy the infrastructure when no longer needed
+## Destroy the infrastructure when no longer needed
 terraform destroy
 
 
