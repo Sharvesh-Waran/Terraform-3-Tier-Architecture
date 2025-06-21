@@ -19,14 +19,23 @@ This project uses Terraform to deploy a 3-tier architecture on AWS. It includes 
 
 .
 ├── main.tf
+
 ├── providers.tf
+
 ├── outputs.tf
+
 ├── variables.tf
+
 ├── terraform.tfvars
+
 ├── versions.tf
+
 └── modules/
+
 ├── networking/
+
 ├── autoscaling/
+
 └── database/
 
 
