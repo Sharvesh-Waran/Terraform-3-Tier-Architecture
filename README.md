@@ -52,6 +52,10 @@ terraform apply
 ## Destroy the infrastructure when no longer needed
 terraform destroy
 
+
+![image](https://github.com/user-attachments/assets/f6d15d76-7dbe-41a7-baf9-f58b6772d4a2)
+
+
 ![image](https://github.com/user-attachments/assets/9fa75c30-f38e-4c19-9ee2-089eba86f077)
 
 
